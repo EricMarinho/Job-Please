@@ -24,33 +24,31 @@ Make sure you have the below requirements before starting:
 
 ## Download
 
-You can get access to CSPF source code by using one of the following ways:
+You can get access to Job, Please source code by using one of the following ways:
 
-- [:sparkles: Download Source Code](https://github.com/EricMarinho/CSPF/archive/master.zip)
+- [:sparkles: Download Source Code](https://github.com/EricMarinho/Job-Please/archive/master.zip)
 - Clone the repository locally:
 
 ```bash
-git clone https://github.com/EricMarinho/CSPF.git
+git clone https://github.com/EricMarinho/Job-Please.git
 ```
 
-Also you can also play or download the build version of CSPF using one of the following link:
+Also you can also play or download the build version of Job Please using one of the following link:
 
-- [:star: Play Store](https://play.google.com/store/apps/details?id=com.IlidamStudios.CSPF)
-- [:star: Itch.io](https://ilidam.itch.io/cspf)
-- [:star: Game Jolt](https://gamejolt.com/games/CSPF/752718)
+- [:star: Itch.io](https://forja-umbra.itch.io/job-please)
 
 ## Screenshots
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTY3NjUyMS8xMTM3MzYzMS5wbmc=/original/TbS4ma.png"/>
+  <img src="https://img.itch.zone/aW1hZ2UvMjQ5OTMyNi8xNDg0NzAzMC5wbmc=/original/%2Fd3yzI.png"/>
 </p>
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTY3NjUyMS8xMTM3MzYzMi5wbmc=/original/TqDNNX.png"/>
+  <img src="https://img.itch.zone/aW1hZ2UvMjQ5OTMyNi8xNDg0NzAzMi5wbmc=/original/pT1mCN.png"/>
 </p>
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTY3NjUyMS8xMTM3MzYzNC5wbmc=/original/K7UY4A.png"/>
+  <img src="https://img.itch.zone/aW1hZ2UvMjQ5OTMyNi8xNDg0NzAzNC5wbmc=/original/My9jct.png"/>
 </p>
 
 ## Credits
@@ -60,4 +58,9 @@ Also you can also play or download the build version of CSPF using one of the fo
 
 ## License
 
-Made by [Ilidam](https://github.com/EricMarinho)
+Made by:
+[Ilidam](https://github.com/EricMarinho)
+[Arhkas Montes](https://www.linkedin.com/in/arthurmonte/)
+[Corvo Ars](https://www.artstation.com/corvoars)
+[Gabriel Caminha](https://www.linkedin.com/in/caminha-gabriel/)
+[Kbeludox](https://www.artstation.com/kbeludox)
