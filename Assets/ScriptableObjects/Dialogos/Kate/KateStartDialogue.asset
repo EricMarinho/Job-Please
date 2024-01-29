@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd799ae6ae1c12b4ea74c51f697a9a07, type: 3}
+  m_Name: KateStartDialogue
+  m_EditorClassIdentifier: 
+  falasDialogo:
+  - identificador: '[Kate]Hey, I need your best job!'
+    personagemDialogo: {fileID: 11400000, guid: 143e49010c263024692694cb6bf255e8, type: 2}
+    texto: Hey, I need your best job!
+  - identificador: '[Kate]I want something hot like the sun, and explosive like uhm,
+      I don''t know... fireworks!'
+    personagemDialogo: {fileID: 11400000, guid: 143e49010c263024692694cb6bf255e8, type: 2}
+    texto: I want something hot like the sun, and explosive like uhm, I don't know...
+      fireworks!
+  - identificador: '[Kate]Meeting people, telling stories, chatting about the day,
+      I love all of this.'
+    personagemDialogo: {fileID: 11400000, guid: 143e49010c263024692694cb6bf255e8, type: 2}
+    texto: Meeting people, telling stories, chatting about the day, I love all of
+      this.
+  - identificador: '[Kate]Anyways, I promisse I''ll do my best!'
+    personagemDialogo: {fileID: 11400000, guid: 143e49010c263024692694cb6bf255e8, type: 2}
+    texto: Anyways, I promisse I'll do my best!
+  - identificador: '[Kate]You have something there for me, right?'
+    personagemDialogo: {fileID: 11400000, guid: 143e49010c263024692694cb6bf255e8, type: 2}
+    texto: You have something there for me, right?

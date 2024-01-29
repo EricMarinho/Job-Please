@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd799ae6ae1c12b4ea74c51f697a9a07, type: 3}
+  m_Name: KateEndDialogue
+  m_EditorClassIdentifier: 
+  falasDialogo:
+  - identificador: '[Kate]I''m reaaaally hyped to start!'
+    personagemDialogo: {fileID: 11400000, guid: 143e49010c263024692694cb6bf255e8, type: 2}
+    texto: I'm reaaaally hyped to start!
+  - identificador: '[Kate]Thanks, stranger.'
+    personagemDialogo: {fileID: 11400000, guid: 143e49010c263024692694cb6bf255e8, type: 2}
+    texto: Thanks, stranger.

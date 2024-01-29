@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd799ae6ae1c12b4ea74c51f697a9a07, type: 3}
+  m_Name: CthulhuStartDialogue
+  m_EditorClassIdentifier: 
+  falasDialogo:
+  - identificador: '[Cthulhu]HI.'
+    personagemDialogo: {fileID: 11400000, guid: fd52b9fc92e7c1c40b1cb1c2aedd7986, type: 2}
+    texto: HI.
+  - identificador: '[Cthulhu]JOB, PLEASE.'
+    personagemDialogo: {fileID: 11400000, guid: fd52b9fc92e7c1c40b1cb1c2aedd7986, type: 2}
+    texto: JOB, PLEASE.
+  - identificador: "[Cthulhu]I DON\u2019T WANT PEOPLE, THEY\u2019RE MEAN."
+    personagemDialogo: {fileID: 11400000, guid: fd52b9fc92e7c1c40b1cb1c2aedd7986, type: 2}
+    texto: "I DON\u2019T WANT PEOPLE, THEY\u2019RE MEAN."
+  - identificador: "[Cthulhu]THANKS, I\u2019LL WAIT IN LINE."
+    personagemDialogo: {fileID: 11400000, guid: fd52b9fc92e7c1c40b1cb1c2aedd7986, type: 2}
+    texto: "THANKS, I\u2019LL WAIT IN LINE."

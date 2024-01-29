@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c87511da3f41e2146b79de9324b03ac8, type: 3}
+  m_Name: Interview Data Umbra
+  m_EditorClassIdentifier: 
+  characterName: Umbra
+  interviewItemList:
+  - {fileID: 8893150382308978353, guid: 8ce091be806e6634d9043189f481e719, type: 3}
+  correctJob: 6
+  startDialogue: {fileID: 11400000, guid: b004b12bffe84114aac200cffc6cbc47, type: 2}
+  endDialogue: {fileID: 11400000, guid: e39a7350a89f78e4982fba70166c11d6, type: 2}
+  normalCharacterSprite: {fileID: 21300000, guid: 25d8dfe4040cb4749b9c12ff924ab304, type: 3}
+  talkingCharacterSprite: {fileID: 0}
+  endCharacterSprite: {fileID: 21300000, guid: 25d8dfe4040cb4749b9c12ff924ab304, type: 3}
+  resumeSprite: {fileID: 21300000, guid: 1cf675324e39a0345b3ba445825682c8, type: 3}
+  enterAnimationType: 3
+  enterAnimationDuration: 1
+  leaveAnimationType: 2
+  leaveAnimationDuration: 1
+  music: {fileID: 8300000, guid: 3d0c04b33ce462c4b991c6e0d7798a79, type: 3}
+  talkSound: {fileID: 8300000, guid: f575a1b06ad3e7d4eaba5ff7a66369e5, type: 3}

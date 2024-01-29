@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be9e797e90d14df4c94ce952848df5ae, type: 3}
+  m_Name: Level Data 2
+  m_EditorClassIdentifier: 
+  levelName: Day 2
+  interviewDataList:
+  - {fileID: 11400000, guid: 4a7ce09453cd34d40a808bb3b6d06c45, type: 2}
+  - {fileID: 11400000, guid: f70c761b2e67be84ba3bdc7136705e50, type: 2}
+  possibleJobs:
+  - {fileID: 11400000, guid: d1737d7211a0c9e4fbf30f7d13fa2d8a, type: 2}
+  - {fileID: 11400000, guid: 6deeacba2a6546d418647cd288891043, type: 2}
+  - {fileID: 11400000, guid: 25752bad151b8b74899b1ee985cbea03, type: 2}

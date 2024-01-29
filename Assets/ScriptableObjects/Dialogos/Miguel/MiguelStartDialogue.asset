@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd799ae6ae1c12b4ea74c51f697a9a07, type: 3}
+  m_Name: MiguelStartDialogue
+  m_EditorClassIdentifier: 
+  falasDialogo:
+  - identificador: '[Miguel]Hey buddy, I need a job, fast.'
+    personagemDialogo: {fileID: 11400000, guid: ea14c7181a44b01458ca62ce2d7e4009, type: 2}
+    texto: Hey buddy, I need a job, fast.
+  - identificador: '[Miguel]I ran away from the last one.'
+    personagemDialogo: {fileID: 11400000, guid: ea14c7181a44b01458ca62ce2d7e4009, type: 2}
+    texto: I ran away from the last one.
+  - identificador: '[Miguel]You know how it is, dealing with my boss was quite a
+      challenge.'
+    personagemDialogo: {fileID: 11400000, guid: ea14c7181a44b01458ca62ce2d7e4009, type: 2}
+    texto: You know how it is, dealing with my boss was quite a challenge.
+  - identificador: '[Miguel]Is there anything good there for me?'
+    personagemDialogo: {fileID: 11400000, guid: ea14c7181a44b01458ca62ce2d7e4009, type: 2}
+    texto: Is there anything good there for me?
+  - identificador: '[Miguel]Quickly buddy, they are looking for me!'
+    personagemDialogo: {fileID: 11400000, guid: ea14c7181a44b01458ca62ce2d7e4009, type: 2}
+    texto: Quickly buddy, they are looking for me!

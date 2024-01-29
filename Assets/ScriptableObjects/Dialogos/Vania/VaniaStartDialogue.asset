@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd799ae6ae1c12b4ea74c51f697a9a07, type: 3}
+  m_Name: VaniaStartDialogue
+  m_EditorClassIdentifier: 
+  falasDialogo:
+  - identificador: '[Vania]Oh, hello.'
+    personagemDialogo: {fileID: 11400000, guid: 9dbf962a9970bd641b7dcab173a904d0, type: 2}
+    texto: Oh, hello.
+  - identificador: '[Vania]I''m in the right place, aren''t I?'
+    personagemDialogo: {fileID: 11400000, guid: 9dbf962a9970bd641b7dcab173a904d0, type: 2}
+    texto: I'm in the right place, aren't I?
+  - identificador: '[Vania]You know, jobs or something like this.'
+    personagemDialogo: {fileID: 11400000, guid: 9dbf962a9970bd641b7dcab173a904d0, type: 2}
+    texto: You know, jobs or something like this.
+  - identificador: "[Vania]It\u2019s just that \u201Cshe\u201D told me this is the
+      right place."
+    personagemDialogo: {fileID: 11400000, guid: 9dbf962a9970bd641b7dcab173a904d0, type: 2}
+    texto: "It\u2019s just that \u201Cshe\u201D told me this is the right place."
+  - identificador: '[Vania]You want to know what I mean by "she"?'
+    personagemDialogo: {fileID: 11400000, guid: 9dbf962a9970bd641b7dcab173a904d0, type: 2}
+    texto: You want to know what I mean by "she"?
+  - identificador: "[Vania]I mean... that little voice\u2026 don\u2019t you have
+      one that follows you all day?"
+    personagemDialogo: {fileID: 11400000, guid: 9dbf962a9970bd641b7dcab173a904d0, type: 2}
+    texto: "I mean... that little voice\u2026 don\u2019t you have one that follows
+      you all day?"
+  - identificador: '[Vania]We spend ENTIRE CENTURIES gossiping and talking about
+      life at home.'
+    personagemDialogo: {fileID: 11400000, guid: 9dbf962a9970bd641b7dcab173a904d0, type: 2}
+    texto: We spend ENTIRE CENTURIES gossiping and talking about life at home.
+  - identificador: '[Vania]Anyways, please, assign me for a job.'
+    personagemDialogo: {fileID: 11400000, guid: 9dbf962a9970bd641b7dcab173a904d0, type: 2}
+    texto: Anyways, please, assign me for a job.
+  - identificador: "[Vania]Or not, we don\u2019t really care that much."
+    personagemDialogo: {fileID: 11400000, guid: 9dbf962a9970bd641b7dcab173a904d0, type: 2}
+    texto: "Or not, we don\u2019t really care that much."

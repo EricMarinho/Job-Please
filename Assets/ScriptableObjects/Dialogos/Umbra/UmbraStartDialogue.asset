@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd799ae6ae1c12b4ea74c51f697a9a07, type: 3}
+  m_Name: UmbraStartDialogue
+  m_EditorClassIdentifier: 
+  falasDialogo:
+  - identificador: '[Umbra]Hello, Rookie.'
+    personagemDialogo: {fileID: 11400000, guid: 046c869ded47b184a84604e9a1fb688f, type: 2}
+    texto: Hello, Rookie.
+  - identificador: '[Umbra]Welcome to your first day here!'
+    personagemDialogo: {fileID: 11400000, guid: 046c869ded47b184a84604e9a1fb688f, type: 2}
+    texto: Welcome to your first day here!
+  - identificador: '[Umbra]I''ll show you how things will work from now on.'
+    personagemDialogo: {fileID: 11400000, guid: 046c869ded47b184a84604e9a1fb688f, type: 2}
+    texto: I'll show you how things will work from now on.
+  - identificador: '[Umbra]Basically, your job is:'
+    personagemDialogo: {fileID: 11400000, guid: 046c869ded47b184a84604e9a1fb688f, type: 2}
+    texto: 'Basically, your job is:'
+  - identificador: '[Umbra]Interviewing people.'
+    personagemDialogo: {fileID: 11400000, guid: 046c869ded47b184a84604e9a1fb688f, type: 2}
+    texto: Interviewing people.
+  - identificador: '[Umbra]Checking their documents.'
+    personagemDialogo: {fileID: 11400000, guid: 046c869ded47b184a84604e9a1fb688f, type: 2}
+    texto: Checking their documents.
+  - identificador: '[Umbra]Finding the ideal job for them.'
+    personagemDialogo: {fileID: 11400000, guid: 046c869ded47b184a84604e9a1fb688f, type: 2}
+    texto: Finding the ideal job for them.
+  - identificador: '[Umbra]It is easy, right?'
+    personagemDialogo: {fileID: 11400000, guid: 046c869ded47b184a84604e9a1fb688f, type: 2}
+    texto: It is easy, right?
+  - identificador: '[Umbra]Lets see if you got it.'
+    personagemDialogo: {fileID: 11400000, guid: 046c869ded47b184a84604e9a1fb688f, type: 2}
+    texto: Lets see if you got it.
+  - identificador: "[Umbra]I'm representing \u201CForja Umbra\u201D Team, the people
+      who are making this game!"
+    personagemDialogo: {fileID: 11400000, guid: 046c869ded47b184a84604e9a1fb688f, type: 2}
+    texto: "I'm representing \u201CForja Umbra\u201D Team, the people who are making
+      this game!"
+  - identificador: "[Umbra]So\u2026 I\u2019ll send you my resume.  Please, look for
+      a nice \u201Cjob\u201D for us.\u201D\n"
+    personagemDialogo: {fileID: 11400000, guid: 046c869ded47b184a84604e9a1fb688f, type: 2}
+    texto: "So\u2026 I\u2019ll send you my resume.  Please, look for a nice \u201Cjob\u201D
+      for us.\u201D\n"
+  - identificador: "[Umbra]You can flip the job pages to look for options.\r"
+    personagemDialogo: {fileID: 11400000, guid: 046c869ded47b184a84604e9a1fb688f, type: 2}
+    texto: "You can flip the job pages to look for options.\r"
+  - identificador: '[Umbra]When you find the ideal job, Sign my name on it!'
+    personagemDialogo: {fileID: 11400000, guid: 046c869ded47b184a84604e9a1fb688f, type: 2}
+    texto: When you find the ideal job, Sign my name on it!
